@@ -1,0 +1,90 @@
+p{
+    text-indent: 3ch;
+}
+body{
+    background-image: url("/images/hamlet.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0; 
+}
+
+nav{
+    color: white;
+    align-items: flex-end;
+    background: rgba(239, 241, 239, 0.15);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-radius: 25px
+}
+
+section{
+    display: flex;
+    gap: 10px;
+    row-gap: 10px;
+    column-gap: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+main{
+    color: white;
+    background: rgba(239, 241, 239, 0.15);
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-radius: 25px;
+    padding: 10px 10px 10px 10px;
+}
+
+div{
+    color: white;
+    background: rgba(239, 241, 239, 0.15);
+    display: block;
+    width: 75%;
+    border-radius: 25px
+}
+
+article{
+    color: white;
+    align-items: flex-end;
+    background: rgba(239, 241, 239, 0.15);
+    border-radius: 25px;
+    flex-direction: row; 
+    flex-grow: 1.5;
+    height: 270px;
+}
+
+aside{
+    background-image: url("/images/image.png");
+    border-radius: 25px;
+    flex-direction: row; 
+    flex-grow: 4;
+    width: 490px;
+    height: 700px;
+}
+
+footer{
+    color: white;
+    background: rgba(239, 241, 239, 0.15);
+    display: block;
+    width: 75%;
+    border-radius: 25px
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align:center;
+    color: white;
+}
+
+h2{
+    text-align:center;
+    color: white;
+}
+

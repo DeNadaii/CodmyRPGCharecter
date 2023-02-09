@@ -2,7 +2,7 @@ p{
     text-indent: 3ch;
 }
 body{
-    background-image: url("/images/hamlet.png");
+    background-image: url("./images/hamlet.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0; 
@@ -58,7 +58,7 @@ article{
 }
 
 aside{
-    background-image: url("/images/image.png");
+    background-image: url("./images/image.png");
     border-radius: 25px;
     flex-direction: row; 
     flex-grow: 4;
